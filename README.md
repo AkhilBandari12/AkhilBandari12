@@ -1,10 +1,9 @@
 Hi there, I'm **Akhil Bandari** 👋
 
-![Profile Banner](path-to-your-banner-image)
 
  👨‍💻 **About Me**
 
-I'm Akhil, a passionate and dedicated developer with a strong interest in Python-Automation and Web Development. 
+Python Automation & Application developer with 5Yrs of IT experience, currently working for Buzzworks Hyderabad.
 I enjoy experimenting with new technologies, solving complex problems, and continuously upskilling myself through hands-on projects.
 
 - 🌱 I’m currently learning: AWS + Python + Devops. (Also Started solving Problems in Leet code for DSA)
