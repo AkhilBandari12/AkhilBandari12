@@ -7,42 +7,33 @@ Hi there, I'm **Akhil Bandari** 👋
 I'm Akhil, a passionate and dedicated developer with a strong interest in Python-Automation and Web Development. 
 I enjoy experimenting with new technologies, solving complex problems, and continuously upskilling myself through hands-on projects.
 
-- 🌱 I’m currently learning: AWS + Python + Devops.
-- 💼 I'm currently working on: A application where it will take the inputs from the user and starts the automation process.
+- 🌱 I’m currently learning: AWS + Python + Devops. (Also Started solving Problems in Leet code for DSA)
+- 💼 I'm currently working on a application where it will take the inputs from the user and starts the automation process.
 - 💬 Ask me about: Python related Stuff .
 - 📫 Reach me out : akhil.bandari0203@gmail.com / www.linkedin.com/in/akhilbandari0203.
-- ⚡ Besides coding, I'm also a movie  and enjoy [playing an instrument/creating art] in my free time..
+- ⚡ Besides coding, I love watching movies and hangout with friends in my free time..
 
 ## 🛠️ Tech Stack
 
 Here are some of the technologies I work with:
 
-- **Languages**: Python, JavaScript, [add more].
-- **Frameworks**: Robot Framework, Flask, [add more].
-- **Databases**: MySQL, SQLite, [add more].
-- **Tools**: Git, Docker, VS Code, [add more].
+- **Languages**: Python.
+- **Frameworks**: RobotFramework, Django, Rest API, Selenium.
+- **Databases**: Postgres, SQL.
+- **Tools**: Git, AWS, Docker, VS Code, Jenkins, UiPath, PowerAutomate.
+- **Intrests**: Machine Learning, Data Science
 
 ## 🚀 My Training and Upskilling Journey
 
-This is my journey towards mastering new skills and technologies. My repository, [Training and Upskilling Repository](link-to-your-repository), contains various projects and experiments that showcase my learning process.
-
-## 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Integrate X in Y](link-to-your-blog-post)
-- [5 Tips for Mastering Z](link-to-your-blog-post)
-<!-- BLOG-POST-LIST:END -->
+This is my journey towards mastering new skills and technologies. My repository, (https://github.com/AkhilBandari12/Project_AB.git), contains various projects and experiments that showcase my learning process.
 
 ## 🗂️ Projects
 
 Here are a few highlights from my projects:
 
-- **Project_AB (link-to-project)**: Brief description of what the project does.
-- **[Project Name](link-to-project)**: Brief description of what the project does.
+- **Project_AB (https://github.com/AkhilBandari12/Project_AB.git)**: Training and Upskilling Repository.
+- **Python Mini-Projects (https://github.com/AkhilBandari12/Python_Mini_Projects_2024.git)**: Some python projects
+- **Customer Onboarding App (https://github.com/AkhilBandari12/Customer_On_Boarding_App.git)**: Application(Python + Django) 
 
 ## 📫 Let's Connect
 
