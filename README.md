@@ -31,8 +31,11 @@ This is my journey towards mastering new skills and technologies. My repository,
 Here are a few highlights from my projects:
 
 - **Project_AB (https://github.com/AkhilBandari12/Project_AB.git)**: Training and Upskilling Repository.
+- **Compliance Automation (https://github.com/AkhilBandari12/Compliance_Automation-1.git)** : Recent Automation & API's
+- **Customer Onboarding App (https://github.com/AkhilBandari12/Customer_On_Boarding_App.git)**: Application(Python + Django)
 - **Python Mini-Projects (https://github.com/AkhilBandari12/Python_Mini_Projects_2024.git)**: Some python projects
-- **Customer Onboarding App (https://github.com/AkhilBandari12/Customer_On_Boarding_App.git)**: Application(Python + Django) 
+ 
+
 
 ## 📫 Let's Connect
 
