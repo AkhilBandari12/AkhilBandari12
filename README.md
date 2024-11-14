@@ -6,9 +6,9 @@ Hi there, I'm **Akhil Bandari** 👋
 Python Automation & Application developer with 5Yrs of IT experience, currently working for Buzzworks Hyderabad.
 I enjoy experimenting with new technologies, solving complex problems, and continuously upskilling myself through hands-on projects.
 
-- 🌱 I’m currently learning: AWS + Python + Devops. (Also Started solving Problems in Leet code for DSA)
+- 🌱 I’m currently learning: Data Structures and Algorithms (Started solving Problems in Leet code[LeetCode ID: Akhil0203].)
 - 💼 I'm currently working on a application where it will take the inputs from the user and starts the automation process.
-- 💬 Ask me about: Python related Stuff .
+- 💬 Ask me about: Python related Stuff [Python + AWS + Devops].
 - 📫 Reach me out : akhil.bandari0203@gmail.com / www.linkedin.com/in/akhilbandari0203.
 - ⚡ Besides coding, I love watching movies and hangout with friends in my free time..
 
